@@ -1,3 +1,3 @@
 # Safe Paws
 
-beta version.
+beta version
